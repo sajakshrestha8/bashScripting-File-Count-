@@ -21,12 +21,15 @@ A simple Bash script that counts the number of files and folders in the current 
    https://github.com/sajakshrestha8/bashScripting-File-Count-.git
 
 3. Change the project directory<br />
+   ```bash
    cd saza-files.sh
 
 4. Make the script executable<br />
+   ```bash
    chmon +x saza-files.sh
 
 5. Copy the script to the PATH for global access<br />
+   ```bash
    sudo cp saza-files.sh /usr/local/bin/
 
 ## Run the Script
