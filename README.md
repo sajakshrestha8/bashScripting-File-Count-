@@ -33,6 +33,7 @@ A simple Bash script that counts the number of files and folders in the current 
    sudo cp saza-files.sh /usr/local/bin/
 
 ## Run the Script
+   ```bash
   saza-files.sh
 
 ## Output
